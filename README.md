@@ -169,19 +169,6 @@ The File Management Application aims to provide users with the ability to manage
 7. **Exit**
 8. **End**
 
-## GitHub Repository
-
-- **Repository Link:** [GitHub Repository Link]
-
-### Steps for Setting Up Git and GitHub:
-
-1. Install Git on your local machine.
-2. Create a GitHub account if you don't have one.
-3. Create a new repository on GitHub.
-4. Clone the repository to your local machine.
-5. Add and commit your project files to the repository.
-6. Push the commits to GitHub.
-7. Document each step and update the repository regularly.
 
 ## Conclusion and Unique Selling Points (USPs)
 
